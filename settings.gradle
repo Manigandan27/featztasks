@@ -1,0 +1,13 @@
+include ':app'
+rootProject.name = "Task1"
+
+//maven {
+//    url "https://jitpack.io"
+//}
+
+//repositories {
+//    google()
+//    mavenCentral()
+//    jcenter()
+//    maven { url 'https://jitpack.io' }
+//}
